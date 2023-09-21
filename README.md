@@ -11,3 +11,8 @@ git checkout main
 git merge development
 git push origin
 
+![Captura00](https://github.com/mbjabalquinto/prueba-git/blob/main/git00.jpg)
+
+![Captura01](https://github.com/mbjabalquinto/prueba-git/blob/main/git01.jpg)
+
+![Captura02](https://github.com/mbjabalquinto/prueba-git/blob/main/git02.jpg)
